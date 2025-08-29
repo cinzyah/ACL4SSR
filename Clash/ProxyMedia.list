@@ -6,13 +6,19 @@
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,notorious-2019.com
-country.is
-hlive.io
-yfsp.tv
-etcbbf.xyz
-etcbbh.xyz
-etcbbi.xyz
-etcbbj.xyz
+DOMAIN-SUFFIX,country.is
+DOMAIN-SUFFIX,hlive.io
+DOMAIN-SUFFIX,yfsp.tv
+DOMAIN-SUFFIX,deniest.com
+DOMAIN-SUFFIX,dentisest.com
+DOMAIN-SUFFIX,timeprecei.com
+DOMAIN-SUFFIX,waytogone.com
+DOMAIN-SUFFIX,bytwogeneral.com
+DOMAIN-SUFFIX,bitwayeat.com
+URL-REGEX,etcbb\D.xyz
+URL-REGEX,uutest\D.com
+URL-REGEX,tfbg\D\D\D.com
+URL-REGEX,tfboyaa\D.com
 
 # AI
 DOMAIN-KEYWORD,anthropic
