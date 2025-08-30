@@ -5,8 +5,6 @@
 # Cloudflare London, LLC
 #
 
-IP-CIDR,104.18.94.41,no-resolve
-IP-CIDR,104.18.95.41,no-resolve
 DOMAIN-KEYWORD,challenges
 DOMAIN-KEYWORD,a.nel
 DOMAIN-KEYWORD,cdnjs.cloudflare
