@@ -5,6 +5,7 @@
 # Cloudflare London, LLC
 #
 
-DOMAIN,challenges.cloudflare.com,no-resolve
-DOMAIN,a.nel.cloudflare.com,no-resolve
-DOMAIN,cdnjs.cloudflare,no-resolve
+DOMAIN,challenges.cloudflare.com
+DOMAIN,a.nel.cloudflare.com
+DOMAIN,cdnjs.cloudflare.com
+PROTOCOL,udp
