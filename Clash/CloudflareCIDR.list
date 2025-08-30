@@ -5,6 +5,6 @@
 # Cloudflare London, LLC
 #
 
-DOMAIN-KEYWORD,challenges
-DOMAIN-KEYWORD,a.nel
-DOMAIN-KEYWORD,cdnjs.cloudflare
+DOMAIN,challenges.cloudflare.com,no-resolve
+DOMAIN,a.nel.cloudflare.com,no-resolve
+DOMAIN,cdnjs.cloudflare,no-resolve
